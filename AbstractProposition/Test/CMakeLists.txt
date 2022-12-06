@@ -1,0 +1,2 @@
+add_executable(PropositionObjectsTestCases PropositionObjectsTestCases.cpp)
+target_link_libraries(PropositionObjectsTestCases AbstractProposition gtest_main)
